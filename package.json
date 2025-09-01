@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "netlify:build": "npm run build",
+    "netlify:dev": "netlify dev"
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.1.1",
@@ -27,6 +29,10 @@
     "react-router-dom": "^7.1.1",
     "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7"
+  },
+  "engines": {
+    "node": ">=22.0.0",
+    "npm": ">=10.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
