@@ -17,14 +17,14 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 
 ## Demo
 
-![Portfolio Demo](https://i.postimg.cc/Dfr5jCQp/Screenshot-2025-01-02-120901.png)
+![Portfolio Demo](https://res.cloudinary.com/dge2ji6nf/image/upload/v1756755563/Screenshot_2025-09-02_at_1.09.14_AM_m28cdx.png)
 
 ---
 
 ## Live Preview
 
 Check out the live preview of the portfolio website here:  
-[**Live Demo**](https://codervai.vercel.app/)
+<!-- [**Live Demo**](https://codervai.vercel.app/) -->
 ---
 ### 🎯 Project Structure
 ```bash
@@ -151,7 +151,7 @@ You will need to download **Git** and **Node** to run this project.
 2. After forking, open your terminal and run the following commands to clone the repo:
 
   ```bash
-  git clone https://github.com/seraprogrammer/portfolio.git
+  git clone https://github.com/Krishna-1899/sleek_portfolio
   ```
 Navigate to the Project Directory 📂
 Once the repository is cloned, change your directory to the project folder:
@@ -176,16 +176,6 @@ Open your browser and visit http://localhost:5173/ to see the result! 🎉
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-### 🤝 Contributing
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ---
 
